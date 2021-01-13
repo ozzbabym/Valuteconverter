@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/valuteconverter/static/css/main.e8f35c91.chunk.css",
-    "main.js": "/valuteconverter/static/js/main.198f388b.chunk.js",
-    "main.js.map": "/valuteconverter/static/js/main.198f388b.chunk.js.map",
-    "runtime-main.js": "/valuteconverter/static/js/runtime-main.2838b384.js",
-    "runtime-main.js.map": "/valuteconverter/static/js/runtime-main.2838b384.js.map",
-    "static/js/2.5500e9e3.chunk.js": "/valuteconverter/static/js/2.5500e9e3.chunk.js",
-    "static/js/2.5500e9e3.chunk.js.map": "/valuteconverter/static/js/2.5500e9e3.chunk.js.map",
-    "static/js/3.425b5160.chunk.js": "/valuteconverter/static/js/3.425b5160.chunk.js",
-    "static/js/3.425b5160.chunk.js.map": "/valuteconverter/static/js/3.425b5160.chunk.js.map",
-    "index.html": "/valuteconverter/index.html",
-    "static/css/main.e8f35c91.chunk.css.map": "/valuteconverter/static/css/main.e8f35c91.chunk.css.map",
-    "static/js/2.5500e9e3.chunk.js.LICENSE.txt": "/valuteconverter/static/js/2.5500e9e3.chunk.js.LICENSE.txt",
-    "static/media/preloader.40ed8d54.gif": "/valuteconverter/static/media/preloader.40ed8d54.gif"
+    "main.css": "/Valuteconverter/static/css/main.e8f35c91.chunk.css",
+    "main.js": "/Valuteconverter/static/js/main.198f388b.chunk.js",
+    "main.js.map": "/Valuteconverter/static/js/main.198f388b.chunk.js.map",
+    "runtime-main.js": "/Valuteconverter/static/js/runtime-main.6a5480c8.js",
+    "runtime-main.js.map": "/Valuteconverter/static/js/runtime-main.6a5480c8.js.map",
+    "static/js/2.5500e9e3.chunk.js": "/Valuteconverter/static/js/2.5500e9e3.chunk.js",
+    "static/js/2.5500e9e3.chunk.js.map": "/Valuteconverter/static/js/2.5500e9e3.chunk.js.map",
+    "static/js/3.425b5160.chunk.js": "/Valuteconverter/static/js/3.425b5160.chunk.js",
+    "static/js/3.425b5160.chunk.js.map": "/Valuteconverter/static/js/3.425b5160.chunk.js.map",
+    "index.html": "/Valuteconverter/index.html",
+    "static/css/main.e8f35c91.chunk.css.map": "/Valuteconverter/static/css/main.e8f35c91.chunk.css.map",
+    "static/js/2.5500e9e3.chunk.js.LICENSE.txt": "/Valuteconverter/static/js/2.5500e9e3.chunk.js.LICENSE.txt",
+    "static/media/preloader.40ed8d54.gif": "/Valuteconverter/static/media/preloader.40ed8d54.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.2838b384.js",
+    "static/js/runtime-main.6a5480c8.js",
     "static/js/2.5500e9e3.chunk.js",
     "static/css/main.e8f35c91.chunk.css",
     "static/js/main.198f388b.chunk.js"
