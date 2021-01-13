@@ -6,7 +6,7 @@ import Valute from './components/valute/Valute';
 function App() {
   return (
     <div className="App">
-      yo
+      
       <Route path='/' exact render={()=>(<Valute/>)}/>
       <Route path='/converter' exact render={()=>(<Converter/>)}/>
 
